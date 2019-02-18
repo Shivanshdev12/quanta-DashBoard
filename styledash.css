@@ -1,0 +1,42 @@
+#dashboard{
+    background-image:url("dashboard.jpg");
+    background-size:cover;
+    background-repeat: no-repeat; 
+    height:100vh;
+}
+.btext
+{
+    color: #b3b3ff;
+    box-shadow:0 0 2em rgba(0,0,0,0.2); 
+    padding:40px;
+    font-family: "Comic Sans MS";
+}
+textarea{
+    background:rgba(255,255,255,0.1);
+    padding:100px;
+    position:fixed; 
+    border:none;
+    font-family:"Comic Sans MS";
+    font-size:2.2em;
+    margin-left:400px;
+    margin-top:50px;
+    box-shadow:0 0 1.5em rgba(0,0,0,0.3);  
+    overflow: hidden; 
+}
+input
+{
+    margin-left:550px; 
+    margin-top:370px;
+    background:rgba(0,0,0,0.1);
+    position:fixed;
+    color:white;
+    font-weight:1.5em;
+    border:1px white solid;
+}
+.btn{
+    margin-left:800px;
+    margin-top:370px;
+    box-shadow:0 0 1em rgba(0,0,0,0.2); 
+    text-align: center;
+    position:fixed;
+}
